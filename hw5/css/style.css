@@ -1,0 +1,34 @@
+body {
+  background-color: bisque;
+}
+
+h1 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+p {
+  font-family: monospace;
+  text-align: center;
+  font-weight: bold;
+  color: blueviolet;
+}
+
+strong {
+  text-decoration: underline;
+}
+
+ul {
+  font-family: monospace;
+  color: grey;
+}
+
+ol {
+  font-family: monospace;
+  color: brown;
+}
+
+a {
+  font-family: monospace;
+  text-align: center;
+}
